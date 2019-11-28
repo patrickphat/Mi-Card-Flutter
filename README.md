@@ -1,3 +1,3 @@
-Mi Card, the first info app to get start with Flutter!
+Mi Card, the first profile app that you can create to have the first taste with Flutter! 
 
 ![img](images/mi-card.png)
